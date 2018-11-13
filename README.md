@@ -1,3 +1,6 @@
+#This is just a copy of https://github.com/yqritc/RecyclerView-FlexibleDivider.git to add support for androidx
+
+
 # RecyclerView-FlexibleDivider
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RecyclerView--FlexibleDivider-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1418)
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
